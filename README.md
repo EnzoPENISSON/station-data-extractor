@@ -10,7 +10,9 @@ python3 main.py
 
 ## Output
 
-The script will generate a `stations.dart` file containing the following columns:
+The script will generate a `stations.dart`
+
+Image of the console output:
 
 ![Alt text](assets/pythonscript.png?raw=true "Title")
 

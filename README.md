@@ -12,5 +12,5 @@ python3 main.py
 
 The script will generate a `stations.dart` file containing the following columns:
 
-![Alt text]("assets/pythonscript.png"?raw=true "Title")
+![Alt text](assets/pythonscript.png?raw=true "Title")
 
